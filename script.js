@@ -1,4 +1,4 @@
-<script src="Main.js"></script>
+
 document.getElementById('calculate-btn').addEventListener('click', function() {
     const currentTz = document.getElementById('current-timezone').value;
     const destinationTz = document.getElementById('destination-timezone').value;
