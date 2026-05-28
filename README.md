@@ -1,5 +1,5 @@
 Jetlag Management App
-Travel Explorer App
+
 
 A modern and responsive travel-inspired web app built with HTML, CSS, and JavaScript on CodePen.
 This project showcases interactive front-end development skills with clean UI design, smooth layouts, and responsive styling.
